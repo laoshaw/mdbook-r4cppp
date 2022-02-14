@@ -1,0 +1,20 @@
+# Summary
+
+[Introduction](README.md)
+
+- [hello world](hello-world.md)
+- [control flow](control-flow.md)
+- [primitive types](primitives.md)
+- [unique pointers](unique.md)
+- [borrowed pointers](borrowed.md)
+- [rc and raw pointers](rc-raw.md)
+- [data types](data-types.md)
+- [destructuring 1](destructuring.md)
+- [destructuring 2](destructuring-2.md)
+- [arrays and vecs](arrays.md)
+- [graphs and arena_allocation](graphs/README.md)
+    - [mod](graphs/src/mod.rs.md)
+    - [rc_graph](graphs/src/rc_graph.rs.md)
+    - [ref_graph_generic_mod](graphs/src/ref_graph_generic_mod.rs.md)
+    - [ref_graph](graphs/src/ref_graph.rs.md)
+- [closures and first-class functions](closures.md)
